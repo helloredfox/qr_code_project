@@ -43,7 +43,7 @@ This was one of only a few times I've used Git and GitHub. I definitely have a l
 
 ### Continued development
 
-This project doesn't have too many differences between a mobile and desktop design, but a mobile-first approach to web development will definitely be something I want to try and practice in the future. 
+This project doesn't have too many differences between a mobile and desktop design, but a mobile-first approach to web development will definitely be something I want to try and practice in the future. I could use CSS variables to reduce the number of times I coded the colors. I also think the semantic markup could be improved. As I was reviewing the HTML, I noticed that this qr code card could be independently distributable, and thus would be better suited to be in an article tag than a section tag. 
 
 
 ## Author
